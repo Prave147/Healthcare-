@@ -4,6 +4,8 @@ function Index(){
         <>
         <h1>I am NirmalKumar</h1>
         <img src={hero} alt="" />
+        <h1>I am Praveen</h1>
+        <img src={hero} alt="" />
         </>
     );
 }
